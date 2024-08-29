@@ -29,7 +29,7 @@ Week4 4분반 경민,수연팀
 
 ### 1.Main page
 
-<img src="https://github.com/lotuxsoo/madcamp-week4/assets/55384167/055b5074-72d4-4af3-b75b-1cbc1f5082f0" width="1000" height="700">
+<img src="https://github.com/user-attachments/assets/e6f6b6df-0cec-4202-aac3-c21f6279cdbc" width="1000" height="700">
 
 
 ***Major features***
@@ -45,13 +45,13 @@ Week4 4분반 경민,수연팀
 - 항목이 선택이 안되면 다음 버튼이 눌리지 않습니다.
 - 제출버튼을 누르면 Django로 선택된 값을 json 파일로 전송합니다.
 
-<img src="https://github.com/lotuxsoo/madcamp-week4/assets/55384167/0362736c-ceb1-4e87-8a10-1888786e813d" width="1000" height="700">
+<img src="https://github.com/user-attachments/assets/bbfeda63-3b36-45f4-b20e-1b596dd9910f" width="1000" height="700">
 <br/>
-<img src="https://github.com/lotuxsoo/madcamp-week4/assets/55384167/5a9f2de4-1f07-443f-9854-43129ba361a6" width="1000" height="700">
+<img src="https://github.com/user-attachments/assets/13a856af-db65-4015-bcae-117983019ab7" width="1000" height="700">
 <br/>
-<img src="https://github.com/lotuxsoo/madcamp-week4/assets/55384167/e53c373d-b772-44d3-bba0-bde5dc4eb12a" width="1000" height="700">
+<img src="https://github.com/user-attachments/assets/b0cc6f04-532d-456f-9c31-b1c16f32348d" width="1000" height="700">
 <br/>
-<img src="https://github.com/lotuxsoo/madcamp-week4/assets/55384167/274cfa55-6b5a-4f0f-ae9d-092a15bbb05f" width="1000" height="700">
+<img src="https://github.com/user-attachments/assets/b4f6fc2a-b4d1-48eb-9371-7dfb718200c4" width="1000" height="700">
 <br/>
 
 ---
@@ -62,17 +62,14 @@ Week4 4분반 경민,수연팀
 ***Major features***
 - 서버에서 결과값을 계산 후 반영합니다.
 
-<img src="https://github.com/lotuxsoo/madcamp-week4/assets/55384167/17b66718-85d4-4c69-ab2f-727a6d2ef6d9" width="1000" height="700">
+<img src="https://github.com/user-attachments/assets/307b93d4-1cef-4925-8df2-204f66c1ec49" width="1000" height="700">
 <br/>
-<img src="https://github.com/lotuxsoo/madcamp-week4/assets/55384167/c2657233-9a8b-4c8f-84f5-18f4cddd5e9e" width="1000" height="700">
+<img src="https://github.com/user-attachments/assets/91c7beef-14a9-4d41-8a4d-d47121fd0149" width="1000" height="700">
 <br/>
-<img src="https://github.com/lotuxsoo/madcamp-week4/assets/55384167/f8777e2d-f267-42ea-85d5-3cb10f27a67b" width="1000" height="700">
+<img src="https://github.com/user-attachments/assets/e3f13d9e-a933-48ff-9d5e-9e316f4bf15e" width="1000" height="700">
 <br/>
-<img src="https://github.com/lotuxsoo/madcamp-week4/assets/55384167/8f5f479d-3afd-4985-930e-95c31cd571eb" width="1000" height="700">
+<img src="https://github.com/user-attachments/assets/152c98cd-e0c3-4b2f-afbf-6c420cded75f" width="1000" height="700">
 <br/>
-<img src="https://github.com/lotuxsoo/madcamp-week4/assets/55384167/251a13a6-9296-442b-8266-35fa8469f548" width="1000" height="700">
-<br/>
-<img src="https://github.com/lotuxsoo/madcamp-week4/assets/55384167/26a21d48-d466-486a-8d47-0e67167255cb" width="1000" height="700">
-<br/>
+<img src="https://github.com/user-attachments/assets/c43c13d7-5062-4e93-a232-9e32cd3c5ec9" width="1000" height="700">
 
 
